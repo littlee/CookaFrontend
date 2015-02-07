@@ -1,8 +1,8 @@
 # CookaFrontend
 CookaFrontend Namespace Checkout
 
-## [Block Name]
-[Block Description]
-* ck-store-side
- * ck-store-inside
- * ck-others
+## [Sample Block Name]
+[This is just a sample block description]
+* ck-sample-parent
+ * ck-sample-children
+ * ck-sample-others
