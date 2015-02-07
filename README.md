@@ -3,8 +3,7 @@ CookaFrontend Namespace Checkout
 
 ## [Block Name]
 [Block Description]
-* className
-  * className
-  * className
-* className
-  * className 
+
+* ck-store-side
+ * ck-store-inside
+ * ck-others
